@@ -1,4 +1,6 @@
-<img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/76156f79-a816-4bf7-ac92-8fa494329dfe" />
+<!-- Uploading "ChatGPT Image Sep 13, 2026, 10_44_37 PM.png"... -->
+
+
 # Instagram-Downloader-Bot
 
 
