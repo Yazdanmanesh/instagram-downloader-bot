@@ -22,4 +22,4 @@ A way to download Instagram Reels
 
 ## Support
 
-- Telegram : [](https://t.me/mstgpt)
+- Telegram : [https://t.me/mstgpt](https://t.me/mstgpt)
