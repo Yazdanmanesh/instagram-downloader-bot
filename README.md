@@ -13,7 +13,7 @@ A way to download Instagram Reels
 
 
 # Fast Start ⚡
-  step 1 : paste you bots API token in code
+  step 1 : paste you telegram bots API token in code
 
   step 2 : launch it on you server
   
