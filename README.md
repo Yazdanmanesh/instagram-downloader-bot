@@ -4,7 +4,7 @@
 # Instagram-Downloader-Bot
 
 
-A way to download Instagram Reels
+A way to download Instagram Reels And posts
 
 
 
